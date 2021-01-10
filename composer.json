@@ -1,0 +1,15 @@
+{
+  "name": "smn/router-mvc",
+  "description": "Router for pattern MVC",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Simone",
+      "email": "simone.esposito1986@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "smn\\router\\": "src2/"}
+  }
+}
